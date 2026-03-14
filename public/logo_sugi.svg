@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 563.9 137" style="enable-background:new 0 0 563.9 137;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#006FC5;}
+	.st1{fill:#5A98BA;}
+	.st2{font-family:'HelveticaNeue-Bold';}
+	.st3{font-size:23.6597px;}
+	.st4{letter-spacing:2;}
+	.st5{font-family:'KozGoPr6N-Regular-83pv-RKSJ-H';}
+
+
+	.st0{
+  stroke:#006FC5;
+  stroke-dasharray: 2000;
+  stroke-dashoffset: 0;
+  stroke-width: 1;
+  -webkit-animation: hello 1s ease-in 0s;
+  animation:
+	hello 1s ease-in 0s,
+<!--	hello_c1 2s 3s alternate forwards-->
+}
+  @-webkit-keyframes hello {
+      0% {
+        stroke-dashoffset: 2000;
+	stroke:#000;
+        fill:transparent;
+      }
+      10% {
+        stroke-dashoffset: 2000;
+        fill:transparent;
+      }
+      50% {
+        fill:transparent;
+      }
+      100% {
+        stroke-dashoffset: 0;
+	stroke:#006FC5;
+        fill:#006FC5;
+      }
+    }
+
+	@-webkit-keyframes hello_c1 {
+      0% {
+        fill:#006FC5;
+      }
+      100% {
+        fill:#000;
+      }
+    }
+
+	.st1{
+  stroke:#5A98BA;
+  stroke-dasharray: 2000;
+  stroke-dashoffset: 0;
+  stroke-width: 1;
+  -webkit-animation: hello1 1s ease-in 0s;
+  animation:
+	hello1 1s ease-in 0s,
+<!--	hello_c1 2s 3s alternate forwards-->
+	;
+}
+  @-webkit-keyframes hello1 {
+      0% {
+        stroke-dashoffset: 2000;
+	stroke:#000;
+        fill:transparent;
+      }
+      10% {
+        stroke-dashoffset: 2000;
+        fill:transparent;
+      }
+      30% {
+        fill:transparent;
+      }
+      100% {
+        stroke-dashoffset: 0;
+	stroke:#5A98BA;
+        fill:#5A98BA;
+      }
+    }
+
+</style>
+<g>
+	<path class="st0" d="M51.6,28c-1.2-7.1-5.3-10.6-14.2-10.6c-8.3,0-12.4,3-12.4,8.9c0,4.1,3.5,7.1,11.2,8.9
+		c8.9,2.4,15.4,3.5,20.7,5.9c6.5,2.4,11.2,7.1,11.2,18.3c0,13.6-12.4,21.3-26.6,21.3c-20.7,0-30.8-8.3-31.3-23.7h14.2
+		c0,7.1,6.5,11.8,15.4,11.8c9.5,0,14.2-3.5,14.2-9.5c0-4.7-1.8-7.7-11.2-9.5C20.8,45.1,10.8,41,10.8,25.6c0-11.2,8.9-20.7,26.6-20.7
+		c17.2,0,27.8,9.5,28.4,23.1H51.6z"/>
+	<path class="st0" d="M136.2,7.3h15.4v47.3c0,17.2-10.6,26-29,26c-17.2,0-27.8-8.3-27.8-24.8V7.3h14.8V54c0,8.9,4.7,14.2,12.4,14.2
+		c9.5,0,14.2-4.7,14.2-13.6V7.3z"/>
+	<path class="st0" d="M232,78.3l-0.6-7.1c-3.5,5.9-11.2,9.5-21.3,9.5c-19.5,0-31.9-18.3-31.9-37.9c0-20.7,11.8-37.9,34.9-37.9
+		c16.6,0,29.6,10.1,30.8,24.3H229c-0.6-6.5-7.7-11.8-16-11.8c-11.8,0-19.5,8.9-19.5,26c0,11.8,5.9,24.8,19.5,24.8
+		c9.5,0,17.2-7.1,17.2-16h-15.4V40.4h29.6v37.9H232z"/>
+	<path class="st0" d="M272.8,78.3v-71h14.8v71H272.8z"/>
+	<path class="st0" d="M315.4,43.4c0-24.3,12.4-38.4,33.7-38.4c21.9,0,33.7,14.2,33.7,38.4S371,80,349.1,80
+		C327.2,80.6,315.4,67,315.4,43.4z M368,43.4c0-16.6-7.1-25.4-18.9-25.4c-12.4,0-19.5,8.9-19.5,25.4s7.1,24.3,19.5,24.3
+		C359.8,67.6,368,60.5,368,43.4z"/>
+	<path class="st0" d="M453.8,78.3l-21.3-31.9l-7.7,7.7v24.3H410v-71h14.8v29l27.2-29H471l-27.8,27.8l28.4,42.6h-17.7V78.3z"/>
+</g>
+<g id="a">
+	<path class="st0" d="M557.9,78.3l-24.8-71h-17.2l-25.4,71h11.2c0,0,3.5-13,18.9-14.8v-8.9h-8.9l11.8-33.1l11.2,33.1h-8.3v8.9
+		c15.4,1.8,18.9,14.8,18.9,14.8"/>
+</g>
+<text transform="matrix(1 0 0 1 169.4148 133.2674)"><tspan x="0" y="0" class="st1 st2 st3 st4">DESIGN</tspan><tspan x="104.9" y="0" class="st1 st5 st3 st4">  </tspan><tspan x="120.6" y="0" class="st1 st2 st3 st4">WORKS</tspan></text>
+</svg>
