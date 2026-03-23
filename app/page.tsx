@@ -10,7 +10,7 @@ export default async function Home() { // 2. async を追加
     return (
         <main className="min-h-screen">
             {/* --- メインビジュアルセクション（既存のまま） --- */}
-            <div className="grid grid-cols-12 items-center gap-x-sugioka-gap px-10 py-20 max-w-[1920px] mx-auto">
+            <div className="grid grid-cols-12 items-center gap-x-sugioka-gap px-10 py-20 mx-auto">
                 <div className="col-span-5 space-y-6">
                     <h1 className="text-6xl font-bold leading-tight tracking-tighter text-sugioka-black text-balance">
                         大阪の品格、<br />
@@ -45,7 +45,7 @@ export default async function Home() { // 2. async を追加
             <div className="h-sugioka-gap"></div>
 
             {/* --- 4. 追加：ブログ一覧セクション --- */}
-            <section className="px-10 py-20 max-w-[1920px] mx-auto">
+            <section className="px-10 py-20 mx-auto">
                 <h2 className="text-sm tracking-widest text-sugioka-gray mb-10">LATEST BLOG</h2>
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-10">
                     {posts.map((post) => (
