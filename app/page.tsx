@@ -44,6 +44,7 @@ export default async function Home() { // 2. async を追加
             {/* --- 次のセクションへの区切り（180px） --- */}
             <div className="h-sugioka-gap"></div>
 
+
             {/* --- 4. 追加：ブログ一覧セクション --- */}
             <section className="px-10 py-20 mx-auto">
                 <h2 className="text-sm tracking-widest text-sugioka-gray mb-10">LATEST BLOG</h2>
